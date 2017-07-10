@@ -1,1 +1,1 @@
-<?php define("DB_NAME", "phppamokos"); define("user", "jonas");
+<?php define("DB_NAME", "naujaDB"); define("user", "jonas");
